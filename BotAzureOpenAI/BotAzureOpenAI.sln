@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotAzureOpenAI", "BotAzureOpenAI\BotAzureOpenAI.csproj", "{05BCFDE8-D119-4915-94E0-D574595707B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05BCFDE8-D119-4915-94E0-D574595707B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BCFDE8-D119-4915-94E0-D574595707B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BCFDE8-D119-4915-94E0-D574595707B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BCFDE8-D119-4915-94E0-D574595707B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EB4245E-B9E0-4C57-8C54-04AD599E9A0F}
+	EndGlobalSection
+EndGlobal

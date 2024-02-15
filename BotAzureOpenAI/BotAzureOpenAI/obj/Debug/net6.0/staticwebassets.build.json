@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "2f/x2sen8RC9c3Dlm+TNRqHGM2uBtVSAR9sd8erYHLw=",
+  "Source": "BotAzureOpenAI",
+  "BasePath": "_content/BotAzureOpenAI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BotAzureOpenAI\\wwwroot",
+      "Source": "BotAzureOpenAI",
+      "ContentRoot": "C:\\Users\\Rubén Guerrero\\Documents\\overcast\\prueba\\BotWithAzureOpenAi\\BotAzureOpenAI\\BotAzureOpenAI\\wwwroot\\",
+      "BasePath": "_content/BotAzureOpenAI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Rubén Guerrero\\Documents\\overcast\\prueba\\BotWithAzureOpenAi\\BotAzureOpenAI\\BotAzureOpenAI\\wwwroot\\default.htm",
+      "SourceId": "BotAzureOpenAI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Rubén Guerrero\\Documents\\overcast\\prueba\\BotWithAzureOpenAi\\BotAzureOpenAI\\BotAzureOpenAI\\wwwroot\\",
+      "BasePath": "_content/BotAzureOpenAI",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
